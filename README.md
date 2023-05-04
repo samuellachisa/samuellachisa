@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Samuel Lachisa</h2>
 <p>I'm currently a software developer at <strong><a href="https://www.ethiopianairlines.com/">Ethiopian Airlines</a></strong> based in 🌁 Addis Ababa, Ethiopia. 
- <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/samuellachisa/" alt="LinkedIn Badge"></a> 
+ <a href="https://www.linkedin.com/in/samuellachisa/"><img src="https://img.shields.io/badge/-@samuellachisa-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/samuellachisa/" alt="LinkedIn Badge"></a> 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 Learning about <strong>clean architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
