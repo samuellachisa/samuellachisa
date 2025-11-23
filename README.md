@@ -60,5 +60,5 @@
     <br/>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuellachisa&theme=onestar" alt="samuellachisa's Trophies" /></a>
     <br/>
-    <img src="https://github-contributions-stats.vercel.app/api/achievement?username=samuellachisa&kind=radar&theme=dark" alt="Samuel Lachisa's Contribution Radar Chart" /> 
+    <img src="https://github-contributions-stats.vercel.app/api/contrib-activity?username=samuellachisa&theme=dark" alt="Samuel Lachisa's Contribution Activity Radar Chart" /> 
 </p>
