@@ -1,12 +1,12 @@
-<!-- Clean top capsule - Yellow glow -->
+<!-- Clean top capsule - Yellow glow on black -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=Samuel%20Lachisa&fontSize=80&fontColor=F7DF1E&fontAlignY=38&animation=fadeIn" />
 
 <br>
 
 <div align="center">
 
-<!-- Typing animation in bright yellow -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1500&color=F7DF1E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%E1%8A%A8%E1%8A%A0%E1%89%A3%E1%88%B5+%E1%8A%A0%E1%89%A0%E1%89%A3+%E1%8B%B4%E1%89%A8%E1%88%8E%E1%8D%90%E1%88%AD;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Pixel%E2%80%93Perfect+UI+%2B+Clean+Code" />
+<!-- Typing animation in bright yellow - English only -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1500&color=F7DF1E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Pixel%E2%80%93Perfect+UI+%2B+Clean+Code;Building+the+future+from+Addis+Ababa" />
 
 <br><br>
 
@@ -16,7 +16,7 @@
 
 <br><br>
 
-<!-- Social badges -->
+<!-- Social badges - All verified working -->
 <a href="https://twitter.com/samuellachisa">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
 </a>
@@ -29,7 +29,7 @@
 
 <br><br><br>
 
-<!-- Tech stack - Yellow theme -->
+<!-- Tech stack - Yellow theme, clean orbit -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,prisma,tailwind,redux,git,figma,vercel,aws&theme=dark&perline=12" />
 
 <br><br><br>
@@ -54,7 +54,7 @@
 <!-- Tiny Ethiopian coffee animation -->
 <img src="https://media.giphy.com/media/Qr8JE9RYRk5Ew/giphy.gif" width="90" />
 
-<h3><i>“Coding with Ethiopian energy — one line, one coffee, one dream.”</i></h3>
+<h3><i>"Coding with Ethiopian energy — one line, one coffee, one dream."</i></h3>
 
 <br><br>
 
