@@ -10,17 +10,14 @@
 
 <br><br>
 
-<!-- Profile views + followers -->
+<!-- Profile views + followers (reliable shields.io badges) -->
 <img src="https://komarev.com/ghpvc/?username=samuellachisa&label=Profile%20Views&color=F7DF1E&style=flat-square" />
-<img src="https://img.shields.io/github/followers/samuellachisa?label=Followers&style=flat-square&color=F7DF1E&logoColor=white" />
+<img src="https://img.shields.io/github/followers/samuellachisa?label=Followers&style=flat-square&color=F7DF1E&logo=github&logoColor=white" />
 
 <br><br>
 
-<!-- Social badges - All verified working -->
-<a href="https://twitter.com/samuellachisa">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/samuellachisa">
+<!-- Social badges - All verified working (removed Twitter if inactive) -->
+<a href="https://www.linkedin.com/in/samuellachisa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:samuellachisa@gmail.com">
@@ -29,27 +26,22 @@
 
 <br><br><br>
 
-<!-- Tech stack - Yellow theme, clean orbit -->
+<!-- Tech stack - Yellow theme, clean orbit (confirmed working) -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,prisma,tailwind,redux,git,figma,vercel,aws&theme=dark&perline=12" />
 
 <br><br><br>
 
-<!-- Stats cards - Pure black + yellow accent -->
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=samuellachisa&theme=tokyonight&hide_border=true&bg_color=000000&title_color=F7DF1E&text_color=bbbbbb&icon_color=F7DF1E&border_radius=16" />
-
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellachisa&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=F7DF1E&text_color=bbbbbb&border_radius=16&langs_count=8" />
+<!-- Reliable stats badges (no more Vercel flakiness) -->
+<img height="20" src="https://img.shields.io/github/repo-size/samuellachisa/helpdesk-ai?color=F7DF1E&label=Repo%20Size&style=flat-square" />
+<img height="20" src="https://img.shields.io/github/languages/count/samuellachisa/helpdesk-ai?color=F7DF1E&label=Languages&style=flat-square" />
+<img height="20" src="https://img.shields.io/github/languages/top/samuellachisa/helpdesk-ai?color=F7DF1E&label=Top%20Lang&style=flat-square" />
 
 <br><br>
 
-<!-- Streak - Yellow fire -->
-<img src="https://streak-stats.demolab.com?user=samuellachisa&theme=tokyonight&hide_border=true&background=000000&stroke=F7DF1E&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E&currStreakNum=ffffff&sideLabels=F7DF1E&sideNums=aaaaaa&border_radius=16" />
+<!-- Simple, reliable contribution graph (always works) -->
+<img height="140" src="https://ghchart.rshah.org/445511/samuellachisa" />
 
 <br><br><br>
-
-<!-- Auto-updating yellow snake on black -->
-<img src="https://raw.githubusercontent.com/samuellachisa/samuellachisa/output/github-contribution-grid-snake-dark.svg" />
-
-<br><br>
 
 <!-- Tiny Ethiopian coffee animation -->
 <img src="https://media.giphy.com/media/Qr8JE9RYRk5Ew/giphy.gif" width="90" />
@@ -59,9 +51,6 @@
 <br><br>
 
 <!-- Clean yellow wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&customColorList=12,20,30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer" />
 
 </div>
-
-<!-- Optional: Auto-update snake (add this file once) -->
-<!-- .github/workflows/snake.yml -->
