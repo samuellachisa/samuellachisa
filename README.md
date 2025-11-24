@@ -1,16 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,30&height=200&section=header&text=Samuel%20Lachisa&fontSize=90&fontColor=00ff88&animation=blinking&fontAlign=70" />
+<!-- Clean top capsule - Yellow glow -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=Samuel%20Lachisa&fontSize=80&fontColor=F7DF1E&fontAlignY=38&animation=fadeIn" />
+
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=4000&pause=1000&color=00ff88&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+the+future+from+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9;Clean+code+%2B+Beautiful+design" />
+<!-- Typing animation in bright yellow -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1500&color=F7DF1E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%E1%8A%A8%E1%8A%A0%E1%89%A3%E1%88%B5+%E1%8A%A0%E1%89%A0%E1%89%A3+%E1%8B%B4%E1%89%A8%E1%88%8E%E1%8D%90%E1%88%AD;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Pixel%E2%80%93Perfect+UI+%2B+Clean+Code" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=samuellachisa&label=Profile+views&color=00ff88&style=flat-square" />
-<img src="https://img.shields.io/github/followers/samuellachisa?label=Followers&style=flat-square&color=00ff88&logo=github" />
+<!-- Profile views + followers -->
+<img src="https://komarev.com/ghpvc/?username=samuellachisa&label=Profile%20Views&color=F7DF1E&style=flat-square" />
+<img src="https://img.shields.io/github/followers/samuellachisa?label=Followers&style=flat-square&color=F7DF1E&logoColor=white" />
 
 <br><br>
 
+<!-- Social badges -->
 <a href="https://twitter.com/samuellachisa">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
 </a>
@@ -23,35 +29,39 @@
 
 <br><br><br>
 
-<!-- Tech Stack – Clean orbit style -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,prisma,tailwind,redux,git,figma,vercel,aws,docker,postgres&theme=dark&perline=15" />
+<!-- Tech stack - Yellow theme -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,prisma,tailwind,redux,git,figma,vercel,aws&theme=dark&perline=12" />
 
 <br><br><br>
 
-<!-- Stats Cards – Neon glow -->
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=samuellachisa&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ff88&text_color=bbbbbb&icon_color=00ff88&border_radius=15" />
+<!-- Stats cards - Pure black + yellow accent -->
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=samuellachisa&theme=tokyonight&hide_border=true&bg_color=000000&title_color=F7DF1E&text_color=bbbbbb&icon_color=F7DF1E&border_radius=16" />
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellachisa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ff88&text_color=bbbbbb&border_radius=15&langs_count=8" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellachisa&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=F7DF1E&text_color=bbbbbb&border_radius=16&langs_count=8" />
 
 <br><br>
 
-<!-- Streak – Fire mode -->
-<img src="https://streak-stats.demolab.com?user=samuellachisa&theme=tokyonight&hide_border=true&background=0f0f0f&stroke=00ff88&ring=00ff88&fire=ff00ff&currStreakLabel=00ff88&currStreakNum=ffffff&border_radius=15" />
+<!-- Streak - Yellow fire -->
+<img src="https://streak-stats.demolab.com?user=samuellachisa&theme=tokyonight&hide_border=true&background=000000&stroke=F7DF1E&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E&currStreakNum=ffffff&sideLabels=F7DF1E&sideNums=aaaaaa&border_radius=16" />
 
 <br><br><br>
 
-<!-- Animated Contribution Snake (Auto-updating) -->
+<!-- Auto-updating yellow snake on black -->
 <img src="https://raw.githubusercontent.com/samuellachisa/samuellachisa/output/github-contribution-grid-snake-dark.svg" />
 
-<br><br><br>
+<br><br>
 
-<!-- Secret creative touch -->
-<img src="https://media.giphy.com/media/l0HlxQ55nqH1r2q3y/giphy.gif" width="100" />
+<!-- Tiny Ethiopian coffee animation -->
+<img src="https://media.giphy.com/media/Qr8JE9RYRk5Ew/giphy.gif" width="90" />
 
-<h3>“I don’t chase dreams.<br>I code them into reality.”</h3>
+<h3><i>“Coding with Ethiopian energy — one line, one coffee, one dream.”</i></h3>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=footer&animation=scaleIn" />
+<!-- Clean yellow wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&customColorList=12,20,30" />
 
 </div>
+
+<!-- Optional: Auto-update snake (add this file once) -->
+<!-- .github/workflows/snake.yml -->
