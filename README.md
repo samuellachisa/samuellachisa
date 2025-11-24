@@ -40,7 +40,7 @@
 <br>
 
 <!-- Neon streak - Fixed demolab params (transparent theme works) -->
-<img src="https://streak-stats.demolab.com?user=samuellachisa&theme=transparent&background=000000&stroke=F7DF1E&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E&currStreakNum=FFFFFF&sideLabels=F7DF1E&dates=888888&hide_border=true" />
+
 
 <br><br>
 
