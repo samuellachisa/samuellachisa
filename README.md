@@ -1,20 +1,20 @@
-<!-- Simple Top Glow -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=Samuel%20Lachisa&fontSize=80&fontColor=00ff88&animation=fadeIn" />
+<!-- Clean Yellow Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Samuel%20Lachisa&fontSize=80&fontColor=F7DF1E&animation=fadeIn" />
 
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00ff88&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+%7C+React+%7C+Next.js;Building+the+future%2C+one+line+at+a+time" />
+<!-- Simple Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&color=F7DF1E&center=true&vCenter=true&lines=Software+Developer;React+%7C+Next.js+%7C+Node.js;Addis+Ababa+%E2%86%92+Building+the+Future" />
 
 <br><br>
 
-<!-- Status & Views -->
-<img src="https://img.shields.io/badge/Status-Active-00ff88?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=samuellachisa&color=00ff88&style=flat-square" />
+<!-- Status -->
+<img src="https://img.shields.io/badge/Status-Active-F7DF1E?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=samuellachisa&color=F7DF1E&style=flat-square" />
 
 <br><br>
 
-<!-- Social Links -->
+<!-- Socials -->
 <a href="https://www.linkedin.com/in/samuellachisa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -24,24 +24,24 @@
 
 <br><br><br>
 
-<!-- Tech Stack -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,prisma,tailwind,redux,git,docker,aws,postgres,vercel&perline=10&theme=dark" />
+<!-- Tech Stack (Yellow Accents) -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,prisma,tailwind,redux,git,docker,aws,postgres,vercel&perline=10&theme=dark" />
 
 <br><br>
 
-<!-- Contribution Graph -->
-<img height="180" src="https://ghchart.rshah.org/00ff88/samuellachisa" />
+<!-- Contribution Graph in Yellow -->
+<img height="180" src="https://ghchart.rshah.org/F7DF1E/samuellachisa" />
 
 <br><br>
 
-<!-- Quote -->
-<h2 style="color:#00ff88; letter-spacing: 2px;">
-  Building tomorrow with clean code and bold ideas.
+<!-- Simple Quote -->
+<h2 style="color: #F7DF1E; letter-spacing: 2px; margin: 20px;">
+  Software Developer • Crafting clean, scalable solutions
 </h2>
 
 <br><br>
 
-<!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=footer" />
+<!-- Yellow Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer" />
 
 </div>
