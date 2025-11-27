@@ -1,76 +1,74 @@
-<!-- Cyber Yellow Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Samuel%20Lachisa&fontSize=80&fontColor=F7DF1E&animation=glow" />
+<!-- Yellow centered wave – TOP -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=140&section=header"/>
 
 <div align="center">
 
-<!-- Dynamic Typing Title -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3500&pause=800&color=F7DF1E&center=true&vCenter=true&multiline=false&width=800&lines=Full-Stack+Engineer;React+%E2%9A%A1+Next.js+%E2%9A%A1+Node.js;Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9+%E2%86%92+Worldwide" />
+# Samuel Lachisa  
+### Full-Stack Software Developer • Addis Ababa, Ethiopia
 
-<br><br>
+<br>
 
-<!-- Live Status + Views -->
-<img src="https://img.shields.io/badge/Status-Coding%20Hard-F7DF1E?style=flat-square&logo=coffee" />
-<img src="https://komarev.com/ghpvc/?username=samuellachisa&color=F7DF1E&style=flat-square" />
-
-<br><br>
-
-<!-- Fixed & Beautiful Social Links -->
-<a href="https://linkedin.com/in/samuellachisa" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/samuellachisa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:samuellachisa@gmail.com">
-  <img src="https://img.shields.io/badge/samuellachisa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/samuellachisa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br><br><br><br>
-
-<!-- CREATIVE SKILL CONSTELLATION — All working icons, no categories -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="55" />
-
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="55" />
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="55" />
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" height="55" />
-
-<br><br><br><br>
-
-<!-- Yellow Contribution Galaxy -->
-<img src="https://ghchart.rshah.org/F7DF1E/samuellachisa" height="180" alt="Samuel's GitHub Chart" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-F7DF1E?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=samuellachisa&color=F7DF1E&style=flat-square" />
 
 <br><br><br>
 
-<!-- Signature Quote -->
-<h2 style="color:#F7DF1E; font-family: 'JetBrains Mono', monospace; letter-spacing: 3px; text-shadow: 0 0 20px #F7DF1E40;">
-  I don’t just write code — I architect the future.
-</h2>
+## Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="45" title="Redux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="45" title="Bootstrap"/>
 
 <br><br>
 
-<!-- Electric Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&animation=scaleIn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="45" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="45" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="45" title="GraphQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="45" title="Prisma"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="45" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="45" title="Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="45" title="Vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" title="Figma"/>
+
+</div>
+
+<br><br>
+
+<!-- Yellow contribution graph -->
+<img src="https://ghchart.rshah.org/F7DF1E/samuellachisa" height="140" alt="GitHub Contributions"/>
+
+<br><br>
+
+<p style="color:#F7DF1E; font-size:18px; font-weight:600;">
+  Building scalable, modern, and performant web applications
+</p>
+
+<br><br>
+
+<!-- Yellow centered wave – BOTTOM (mirrors the top) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=140&section=footer"/>
 
 </div>
