@@ -1,75 +1,76 @@
-<!-- Yellow Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Samuel%20Lachisa&fontSize=70&fontColor=F7DF1E" />
+<!-- Cyber Yellow Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Samuel%20Lachisa&fontSize=80&fontColor=F7DF1E&animation=glow" />
 
 <div align="center">
 
-<!-- Typing Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&color=F7DF1E&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;React+%E2%9A%A1+Next.js+%E2%9A%A1+Node.js;Addis+Ababa+%E2%86%92+Building+the+Future" />
+<!-- Dynamic Typing Title -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3500&pause=800&color=F7DF1E&center=true&vCenter=true&multiline=false&width=800&lines=Full-Stack+Engineer;React+%E2%9A%A1+Next.js+%E2%9A%A1+Node.js;Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9+%E2%86%92+Worldwide" />
 
 <br><br>
 
-<!-- Status & Views -->
-<img src="https://img.shields.io/badge/Status-Active-F7DF1E?style=flat-square" />
+<!-- Live Status + Views -->
+<img src="https://img.shields.io/badge/Status-Coding%20Hard-F7DF1E?style=flat-square&logo=coffee" />
 <img src="https://komarev.com/ghpvc/?username=samuellachisa&color=F7DF1E&style=flat-square" />
 
 <br><br>
 
-<!-- Socials -->
-<a href="https://www.linkedin.com/in/samuellachisa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:samuellachisa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Fixed & Beautiful Social Links -->
+<a href="https://linkedin.com/in/samuellachisa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:samuellachisa@gmail.com">
+  <img src="https://img.shields.io/badge/samuellachisa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br><br><br><br>
 
-<!-- ALL SKILLS AS ICONS — NO CATEGORIES -->
-<img src="https://img.icons8.com/color/60/react-native.png"/>
-<img src="https://img.icons8.com/fluency/60/nextjs.png"/>
-<img src="https://img.icons8.com/color/60/typescript.png"/>
-<img src="https://img.icons8.com/color/60/javascript.png"/>
-<img src="https://img.icons8.com/color/60/redux.png"/>
-<img src="https://img.icons8.com/color/60/tailwindcss.png"/>
-<img src="https://img.icons8.com/color/60/bootstrap.png"/>
-<img src="https://img.icons8.com/color/60/html-5.png"/>
-<img src="https://img.icons8.com/color/60/css3.png"/>
+<!-- CREATIVE SKILL CONSTELLATION — All working icons, no categories -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="55" />
 
 <br><br>
 
-<img src="https://img.icons8.com/color/60/nodejs.png"/>
-<img src="https://img.icons8.com/color/60/express-js.png"/>
-<img src="https://img.icons8.com/color/60/graphql.png"/>
-<img src="https://img.icons8.com/color/60/mongodb.png"/>
-<img src="https://img.icons8.com/color/60/postgreesql.png"/>
-<img src="https://img.icons8.com/color/60/prisma-orm.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="55" />
 
 <br><br>
 
-<img src="https://img.icons8.com/color/60/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/60/docker.png"/>
-<img src="https://img.icons8.com/color/60/azure-1.png"/>
-<img src="https://img.icons8.com/color/60/git.png"/>
-<img src="https://img.icons8.com/color/60/github.png"/>
-<img src="https://img.icons8.com/color/60/gitlab.png"/>
-<img src="https://img.icons8.com/color/60/vercel.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="55" />
 
 <br><br>
 
-<img src="https://img.icons8.com/color/60/figma.png"/>
-<img src="https://img.icons8.com/color/60/postman-api.png"/>
-<img src="https://img.icons8.com/color/60/storybook.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" height="55" />
+
+<br><br><br><br>
+
+<!-- Yellow Contribution Galaxy -->
+<img src="https://ghchart.rshah.org/F7DF1E/samuellachisa" height="180" alt="Samuel's GitHub Chart" />
 
 <br><br><br>
 
-<!-- Contribution Graph -->
-<img height="170" src="https://ghchart.rshah.org/F7DF1E/samuellachisa" />
-
-<br><br>
-
-<h2 style="color:#F7DF1E; letter-spacing:2px;">
-  Full-Stack Developer • Clean code, bold solutions
+<!-- Signature Quote -->
+<h2 style="color:#F7DF1E; font-family: 'JetBrains Mono', monospace; letter-spacing: 3px; text-shadow: 0 0 20px #F7DF1E40;">
+  I don’t just write code — I architect the future.
 </h2>
 
 <br><br>
 
-<!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=footer" />
+<!-- Electric Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&animation=scaleIn" />
 
 </div>
